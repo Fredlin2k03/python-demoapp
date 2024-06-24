@@ -1,6 +1,6 @@
 # Used by `image`, `push` & `deploy` targets, override as required
 IMAGE_REG ?= docker.io
-IMAGE_REPO ?= fredlin/python-demoapp
+IMAGE_REPO ?= JORSEN/python-demoapp
 IMAGE_TAG ?= latest
 
 # Used by `deploy` target, sets Azure webap defaults, override as required
